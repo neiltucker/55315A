@@ -1,4 +1,4 @@
-# 55315A
+# 55315A Introduction to SQL Databases
 This three-day instructor-led course is aimed at people looking to move into a database professional role or whose job role is expanding to encompass database elements. The course describes fundamental database concepts including database types, database languages, and database designs. This course updates and replaces course 10985C previously published under the same title.
 
 Audience:<br>
